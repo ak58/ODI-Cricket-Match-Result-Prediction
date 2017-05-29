@@ -1,9 +1,13 @@
 -> We have used Python3 version for development of our complete project.
+
 -> Data is crawled and stored into csv file format under data folder.
+
+-> For more details read `report.pdf` file given in Report folder.
+
 
 Project Map :
 
-/153050043_153050071_153050085_153050085.tar.gz
+/ODI-Cricket-Match-Result-Prediction
 	/data
 	-- dataset.csv
 	-- rankings_on_date.csv
